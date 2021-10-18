@@ -1,0 +1,779 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.328056,45.431389 ]
+    },
+    "properties": {
+    "location":"Gallerie dell'Accademia",
+    "fullAddress":"Campo della Carità, 1050, 30123 Venezia VE, Italy",
+    "city":"Venice",
+    "country":"Italy",
+    "wikiURL":"https://en.wikipedia.org/wiki/Gallerie_dell%27Accademia",
+    "itemName":"academic painting",
+    "realArtworkTitle":"Vitruvian Man",
+    "artist":"Leonardo da Vinci, circa 1487, Pen and ink on paper",
+    "museumDescription":"This drawing is based on the \"ideal\" human-body ratio, as stated in \"De architectura.\" \"De architectura\" was a treatise by Vitruvius, an architect from the early 1st century BCE."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.885278,52.35999 ]
+    },
+    "properties": {
+    "location":"Rijksmuseum",
+    "fullAddress":"Museumstraat 1, 1071 XX Amsterdam, Netherlands",
+    "city":"Amsterdam",
+    "country":"Netherlands",
+    "wikiURL":"https://en.wikipedia.org/wiki/Rijksmuseum",
+    "itemName":"amazing painting",
+    "realArtworkTitle":"The Night Watch",
+    "artist":"Rembrandt van Rijn, 1642, Oil on canvas",
+    "museumDescription":"This masterpiece, painted by 17th century Dutch artist Rembrandt, depicts a military gathering. At the time, portraits usually showed their subjects standing still. So this was a leap forward in technique. For many years, art scholars thought the painting was set at night, but a restoration revealed a dark varnish. We can now see the dynamic poses and lighting as they were meant to be seen—in the daytime!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.776446,35.718774 ]
+    },
+    "properties": {
+    "location":"Tokyo National Museum",
+    "fullAddress":"13-9 Uenokoen, Taito City, Tokyo 110-8712, Japan",
+    "city":"Tokyo",
+    "country":"Japan",
+    "wikiURL":"https://en.wikipedia.org/wiki/Tokyo_National_Museum",
+    "itemName":"ancient statue",
+    "realArtworkTitle":"Jōmon Period \"Dogū\" Figurine Shakōki-dogū",
+    "artist":"Artist Unknown, 1000-400 BCE, Fired pottery",
+    "museumDescription":"A mysterious, riveting doll made from kneaded, unglazed dirt during the Jōmon period. Its large round eyes resemble goggles that intercept light, so its name should come as no surprise. \"Shakōki\" means \"light-intercepting goggles,\" and a dogū is a small animal figurine."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1120142,34.1277856 ]
+    },
+    "properties": {
+    "location":"The Huntington Library",
+    "fullAddress":"1151 Oxford Rd, San Marino, CA 91108",
+    "city":"San Marino",
+    "country":"United States",
+    "wikiURL":"https://en.wikipedia.org/wiki/Huntington_Library",
+    "itemName":"basic painting",
+    "realArtworkTitle":"The Blue Boy",
+    "artist":"Thomas Gainsborough, 1770, Oil on canvas",
+    "museumDescription":"Gainsborough was known for his innovative use of colors in his traditional portraits, like this one. Although he preferred painting landscapes, his portraits would be the defining work of his career."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335833,48.861111 ]
+    },
+    "properties": {
+    "location":"Louvre",
+    "fullAddress":"Rue de Rivoli, 75001 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Louvre",
+    "itemName":"beautiful statue",
+    "realArtworkTitle":"Venus de Milo",
+    "artist":"Artist Unknown, circa 130 BCE, Marble",
+    "museumDescription":"A statue of the Roman goddess of love and beauty, Venus was found on the island of Milos. This beautiful sculpture makes many wonder what her original pose might have been."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.623889,41.879444 ]
+    },
+    "properties": {
+    "location":"Art Institute of Chicago",
+    "fullAddress":"111 S Michigan Ave, Chicago, IL 60603",
+    "city":"Chicago",
+    "country":"United States",
+    "wikiURL":"https://en.wikipedia.org/wiki/Art_Institute_of_Chicago",
+    "itemName":"calm painting",
+    "realArtworkTitle":"A Sunday Afternoon on the Island of La Grande Jatte",
+    "artist":"Georges Seurat, circa 1885, Oil on canvas",
+    "museumDescription":"Seurat, known as the founder of neo-impressionism, invented the use of brightly colored dots. His method, which does not involve mixing pigments, took time. This piece, for instance, took two years. It shows a crowd enjoying a day off at the river Seine in France."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.326389,48.85993 ]
+    },
+    "properties": {
+    "location":"Musée d'Orsay",
+    "fullAddress":"1 Rue de la Légion d'Honneur, 75007 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
+    "itemName":"common painting",
+    "realArtworkTitle":"The Gleaners",
+    "artist":"Jean-François Millet, 1857, Oil on canvas",
+    "museumDescription":"The signature piece from Millet, who was known for depicting the lives of commoners in the 19th century.Notice the abundant crops visible in the background relative to the meager wheat remaining for workers.This art served as social commentary in a time of great inequality."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.756447,35.67258064 ]
+    },
+    "properties": {
+    "location":"Idemitsu Museum of Arts",
+    "fullAddress":"3 Chome-1-1 Marunouchi, Chiyoda City, Tokyo 100-0005, Japan",
+    "city":"Tokyo",
+    "country":"Japan",
+    "wikiURL":"https://en.wikipedia.org/wiki/Idemitsu_Museum_of_Arts",
+    "itemName":"detailed painting",
+    "realArtworkTitle":"Ajisai Sōkeizu",
+    "artist":"Itō Jakuchū, 18th century, Dyed silk",
+    "museumDescription":"A detailed, colorful, and dynamic piece by Itō Jakuchū, a successful Kyoto artist in the mid-Edo period. High-quality paints on silk help it maintain its brilliant color even now, 200 years after its creation."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.776446,35.718774 ]
+    },
+    "properties": {
+    "location":"Tokyo National Museum",
+    "fullAddress":"13-9 Uenokoen, Taito City, Tokyo 110-8712, Japan",
+    "city":"Tokyo",
+    "country":"Japan",
+    "wikiURL":"https://en.wikipedia.org/wiki/Tokyo_National_Museum",
+    "itemName":"dynamic painting",
+    "realArtworkTitle":"Thirty-Six Views of Mount Fuji The Great Wave off Kanagawa",
+    "artist":"Katsushika Hokusai, circa 1831, Woodblock print",
+    "museumDescription":"The signature piece of ukiyo-e artist Katsushika Hokusai, painted as part of a series when he was in his 60s. Although it is dubbed \"Thirty-Six Views,\" he eventually added 10 more to make 46 in total."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.565833,48.146389 ]
+    },
+    "properties": {
+    "location":"Glyptothek",
+    "fullAddress":"Königsplatz 3, 80333 München, Germany",
+    "city":"Munich",
+    "country":"Germany",
+    "wikiURL":"https://en.wikipedia.org/wiki/Glyptothek",
+    "itemName":"familiar statue",
+    "realArtworkTitle":"The Thinker",
+    "artist":"Auguste Rodin, 1902, Bronze",
+    "museumDescription":"This bronze sculpture was crafted by the French sculptor Rodin, known as the father of modern sculpture. The incredibly famous original is located in France. The sculpture was casted over 20 times. As such, authentic pieces can be found all around the world."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335833,48.861111 ]
+    },
+    "properties": {
+    "location":"Louvre",
+    "fullAddress":"Rue de Rivoli, 75001 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Louvre",
+    "itemName":"famous painting",
+    "realArtworkTitle":"Mona Lisa",
+    "artist":"Leonardo da Vinci, circa 1503, Oil on poplar",
+    "museumDescription":"The world's most famous smile. It's said that da Vinci kept this painting for himself until the very end...Given its power to beguile visitors all these years later, it's easy to see why."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.881111,52.358333 ]
+    },
+    "properties": {
+    "location":"Van Gogh Museum",
+    "fullAddress":"Museumplein 6, 1071 DJ Amsterdam, Netherlands",
+    "city":"Amsterdam",
+    "country":"Netherlands",
+    "wikiURL":"https://en.wikipedia.org/wiki/Van_Gogh_Museum",
+    "itemName":"flowery painting",
+    "realArtworkTitle":"Sunflowers",
+    "artist":"Vincent van Gogh, circa 1888, Oil on canvas",
+    "museumDescription":"Van Gogh painted this piece when he moved to the south of France in search of more vibrant colors. Yellow was Van Gogh's favorite color, and he made seven paintings that featured sunflowers during this time."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.328056,45.431389 ]
+    },
+    "properties": {
+    "location":"Gallerie dell'Accademia",
+    "fullAddress":"Campo della Carità, 1050, 30123 Venezia VE, Italy",
+    "city":"Venice",
+    "country":"Italy",
+    "wikiURL":"https://en.wikipedia.org/wiki/Gallerie_dell%27Accademia",
+    "itemName":"gallant statue",
+    "realArtworkTitle":"David",
+    "artist":"Michelangelo, circa 1504, Marble",
+    "museumDescription":"Young David glares at his enemies, sling slung over his shoulder. It took Michelangelo more than three years to sculpt this piece. Close inspection shows heart- shaped eyes, but that's probably meant to depict light hitting them. Hearts didn't have the lovey-dovey symbolism back then that they do today."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.12841,51.50872 ]
+    },
+    "properties": {
+    "location":"National Gallery",
+    "fullAddress":"Trafalgar Square, Charing Cross, London WC2N 5DN, United Kingdom",
+    "city":"London",
+    "country":"United Kingdom",
+    "wikiURL":"https://en.wikipedia.org/wiki/National_Gallery",
+    "itemName":"glowing painting",
+    "realArtworkTitle":"The Fighting Temeraire",
+    "artist":"Joseph Mallord William Turner, 1839, Oil on canvas",
+    "museumDescription":"A famous piece by Turner, a \"master of light. \"It shows an English Navy ship commanded by Admiral Nelson as it's being tugged toward its dismantling."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.776446,35.718774 ]
+    },
+    "properties": {
+    "location":"Tokyo National Museum",
+    "fullAddress":"13-9 Uenokoen, Taito City, Tokyo 110-8712, Japan",
+    "city":"Tokyo",
+    "country":"Japan",
+    "wikiURL":"https://en.wikipedia.org/wiki/Tokyo_National_Museum",
+    "itemName":"graceful painting",
+    "realArtworkTitle":"Beauty Looking Back",
+    "artist":"Hishikawa Moronobu, 17th century, Color on silk",
+    "museumDescription":"A hand-painted piece by Hishikawa Moronobu, an artist known for popularizing the ukiyo-e style. This stirring painting depicts a fashionable woman glancing back over her shoulder."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.8596633,21.3057205 ]
+    },
+    "properties": {
+    "location":"Hawaii State Supreme Court",
+    "fullAddress":"447 S King St, Honolulu, HI 96813",
+    "city":"Honolulu",
+    "country":"United States",
+    "wikiURL":"https://en.wikipedia.org/wiki/Supreme_Court_of_Hawaii",
+    "itemName":"great statue",
+    "realArtworkTitle":"King Kamehameha I",
+    "artist":"Thomas Ridgeway Gould, circa 1883, Bronze",
+    "museumDescription":"A bronze sculpture of King Kamehameha I, who founded the Kingdom of Hawaii in 1810. Traditionally, the sculpture is draped with many leis every year on June 11th."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127019,51.519489 ]
+    },
+    "properties": {
+    "location":"British Museum",
+    "fullAddress":"Great Russell St, London WC1B 3DG, United Kingdom",
+    "city":"London",
+    "country":"United Kingdom",
+    "wikiURL":"https://en.wikipedia.org/wiki/British_Museum",
+    "itemName":"informative statue",
+    "realArtworkTitle":"Rosetta Stone",
+    "artist":"Artist Unknown, 196 BCE, Granodiorite",
+    "museumDescription":"A stone slab found in Rosetta, Egypt in 1799. Helped efforts to decipher ancient Egyptian hieroglyphs. Almost identical text is written in hieroglyphs at the top, then Demotic script, and lastly Greek script."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335833,48.861111 ]
+    },
+    "properties": {
+    "location":"Louvre",
+    "fullAddress":"Rue de Rivoli, 75001 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Louvre",
+    "itemName":"jolly painting",
+    "realArtworkTitle":"Summer",
+    "artist":"Giuseppe Arcimboldo, circa 1563, Oil on canvas",
+    "museumDescription":"A curious portrait by Giuseppe Arcimboldo, an Italian painter from the late 16th century. It doesn't take a particularly sharp eye to see that the entire portrait is composed of fresh produce."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.094167,42.339167 ]
+    },
+    "properties": {
+    "location":"Museum of Fine Arts, Boston",
+    "fullAddress":"465 Huntington Ave, Boston, MA 02115",
+    "city":"Boston",
+    "country":"United States",
+    "wikiURL":"https://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Boston",
+    "itemName":"moody painting",
+    "realArtworkTitle":"The Sower",
+    "artist":"Jean-François Millet, circa 1850, Oil on canvas",
+    "museumDescription":"Millet painted this piece of a farmer sowing wheat seeds in a field after moving to the countryside from Paris. If the piece reminds you of Van Gogh, that's likely because Van Gogh himself was inspired by it!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.48259,41.89302 ]
+    },
+    "properties": {
+    "location":"Musei Capitolini",
+    "fullAddress":"Piazza del Campidoglio, 1, 00186 Roma RM, Italy",
+    "city":"Rome",
+    "country":"Italy",
+    "wikiURL":"https://en.wikipedia.org/wiki/Capitoline_Museums",
+    "itemName":"motherly statue",
+    "realArtworkTitle":"Capitoline Wolf",
+    "artist":"Artist Unknown, 5th century BCE, Bronze",
+    "museumDescription":"This wolf from Roman mythology raises a pair of twins, along with some controversy. The original bronze sculpture of the wolf is a masterpiece that dates back to 5th century BCE. The twins were added during the 15th century...or so it was thought.Recent research has given rise to speculation that the original piece may be from the 11th or 12th century. (We will, however, stick with the 5th century BCE estimate for now.)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.25513,43.768439 ]
+    },
+    "properties": {
+    "location":"Uffizi Gallery",
+    "fullAddress":"Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+    "city":"Florence",
+    "country":"Italy",
+    "wikiURL":"https://en.wikipedia.org/wiki/Uffizi",
+    "itemName":"moving painting",
+    "realArtworkTitle":"The Birth of Venus",
+    "artist":"Sandro Botticelli, circa 1485, Tempura on canvas",
+    "museumDescription":"A painting of the Roman goddess Venus riding a scallop shell after being born in the ocean. The name Botticelli is said to actually be a nickname given to the artist's brother, who was built like a barrel. Why this nickname was transferred between siblings is a mystery lost to the ages."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.398056,52.520833 ]
+    },
+    "properties": {
+    "location":"Alte Nationalgalerie",
+    "fullAddress":"Bodestraße 1-3, 10178 Berlin, Germany",
+    "city":"Berlin",
+    "country":"Germany",
+    "wikiURL":"https://en.wikipedia.org/wiki/Alte_Nationalgalerie",
+    "itemName":"mysterious painting",
+    "realArtworkTitle":"Isle of The Dead",
+    "artist":"Arnold Böcklin, 1883, Oil on wood",
+    "museumDescription":"A small boat carrying a corpse glides quietly over a still sea to an island of graves surrounded by cliffs. The air of this piece by symbolist painter Böcklin is chilling, but also somehow calm. Böcklin worked here to capture not what he could see, but some of humanity's inner contemplations."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.397778,52.520556 ]
+    },
+    "properties": {
+    "location":"Neues Museum",
+    "fullAddress":"Bodestraße 1-3, 10178 Berlin, Germany",
+    "city":"Berlin",
+    "country":"Germany",
+    "wikiURL":"https://en.wikipedia.org/wiki/Neues_Museum",
+    "itemName":"mystic statue",
+    "realArtworkTitle":"Bust of Nefertiti",
+    "artist":"Thutmose, circa 1345 BCE",
+    "museumDescription":"A bust of Nefertiti, whose name means \"the beautiful one has come.\" A \"royal wife,\" she was known as one of the three most beautiful women in ancient Egypt. It is not known whether the left eye is missing because it fell out, or because it was never completed."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.326389,48.85993 ]
+    },
+    "properties": {
+    "location":"Musée d'Orsay",
+    "fullAddress":"1 Rue de la Légion d'Honneur, 75007 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
+    "itemName":"nice painting",
+    "realArtworkTitle":"The Fifer",
+    "artist":"Édouard Manet, 1866, Oil on canvas",
+    "museumDescription":"One of Manet's earlier works, this painting depicts a young flautist dressed in military uniform. Manet's works are notable for their lack of linear perspective and strong color contrast. These attributes led some to call him \"The Father of Impressionism\" and make comparisons to Vélazquez. Fun fact-flautists can determine what note the boy is playing just by studying the painting closely."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.326389,48.85993 ]
+    },
+    "properties": {
+    "location":"Musée d'Orsay",
+    "fullAddress":"1 Rue de la Légion d'Honneur, 75007 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
+    "itemName":"perfect painting",
+    "realArtworkTitle":"Apples and Oranges",
+    "artist":"Paul Cézanne, circa 1899, Oil on canvas",
+    "museumDescription":"This still life is known to have inspired the work of many other artists, including Pablo Picasso. Rather than trying to recreate an image, Cézanne captured the beauty of shapes from many angles. With this work, Cézanne draws on both the atmosphere of his subjects and the spirit of its beholders."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.117222,51.510833 ]
+    },
+    "properties": {
+    "location":"Courtauld Institute of Art",
+    "fullAddress":"Strand, London WC2R 0RN, United Kingdom",
+    "city":"London",
+    "country":"United Kingdom",
+    "wikiURL":"https://en.wikipedia.org/wiki/The_Courtauld_Institute_of_Art",
+    "itemName":"proper painting",
+    "realArtworkTitle":"A Bar at The Folies-Bergère",
+    "artist":"Édouard Manet, circa 1882, Oil on canvas",
+    "museumDescription":"Close inspection of the mirror behind this painting's subject reveals many mysteries and paradoxes... In fact, the painting is based on multiple perspectives, which explains the unusual placement of some items. Sadly, this is Manet's last major work. He passed away a year after it was complete, at age 51."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.885278,52.35999 ]
+    },
+    "properties": {
+    "location":"Rijksmuseum",
+    "fullAddress":"Museumstraat 1, 1071 XX Amsterdam, Netherlands",
+    "city":"Amsterdam",
+    "country":"Netherlands",
+    "wikiURL":"https://en.wikipedia.org/wiki/Rijksmuseum",
+    "itemName":"quaint painting",
+    "realArtworkTitle":"The Milkmaid",
+    "artist":"Johannes Vermeer, circa 1658, Oil on canvas",
+    "museumDescription":"This piece earned Vermeer the nickname \"Master of Light\" thanks to its exquisite contrast and depth. Vermeer painted this masterpiece at only 25 years of age. Many note that it is surprisingly small in real life."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.565833,48.146389 ]
+    },
+    "properties": {
+    "location":"Glyptothek",
+    "fullAddress":"Königsplatz 3, 80333 München, Germany",
+    "city":"Munich",
+    "country":"Germany",
+    "wikiURL":"https://en.wikipedia.org/wiki/Glyptothek",
+    "itemName":"robust statue",
+    "realArtworkTitle":"Discobolus",
+    "artist":"Artist Unknown, 2nd century CE, Marble",
+    "museumDescription":"This ancient Roman statue is based on the ancient Greek statue crafted by Myron. It's a piece that shows the grandeur of the human body, beautiful from any angle."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.186111,19.426111 ]
+    },
+    "properties": {
+    "location":"Museo Nacional de Antropología",
+    "fullAddress":"Av. Paseo de la Reforma s/n, Polanco, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11560 Ciudad de México, CDMX, Mexico",
+    "city":"Mexico City",
+    "country":"Mexico",
+    "wikiURL":"https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)",
+    "itemName":"rock-head statue",
+    "realArtworkTitle":"Olmec Colossal Head",
+    "artist":"Artist Unknown, circa 1000 BCE, Basalt, andesite",
+    "museumDescription":"Giant stone head thought to be from the ancient Mesoamerican Olmec civilization. The larger ones can reach three meters in height. Scholars think they only crafted heads, no bodies."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.963056,40.779444 ]
+    },
+    "properties": {
+    "location":"The Metropolitan Museum of Art",
+    "fullAddress":"1000 5th Ave, New York, NY 10028",
+    "city":"New York",
+    "country":"United States",
+    "wikiURL":"https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+    "itemName":"scary painting",
+    "realArtworkTitle":"Ōtani Oniji the 3rd as Yakko Edobei",
+    "artist":"Tōshūsai Sharaku, 1794, Woodblock print",
+    "museumDescription":"A print from the mid-Edo period by Tōshūsai Sharaku depicting a famous actor of the time. Sharaku made roughly 140 ukiyo-e prints in his career, even though it only spanned around 10 months!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.36126,48.20371 ]
+    },
+    "properties": {
+    "location":"Kunsthistorisches Museum",
+    "fullAddress":"Maria-Theresien-Platz, 1010 Wien, Austria",
+    "city":"Vienna",
+    "country":"Austria",
+    "wikiURL":"https://en.wikipedia.org/wiki/Kunsthistorisches_Museum",
+    "itemName":"scenic painting",
+    "realArtworkTitle":"The Hunters in The Snow",
+    "artist":"Pieter Brueghel the Elder, 1565, Oil on wood panel",
+    "museumDescription":"A landscape artist from the late Renaissance period, Brueghel was known as the \"Peasant Artist.\" He earned the title for depicting scenes from common peasant life, such as the moment captured here. Note the contrast between the weary hunters and the people frolicking below on icy ponds."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.93699625,50.05899976 ]
+    },
+    "properties": {
+    "location":"Czartoryski Museum",
+    "fullAddress":"św. Jana 19, 31-017 Kraków, Poland",
+    "city":"Krakow",
+    "country":"Poland",
+    "wikiURL":"https://en.wikipedia.org/wiki/Czartoryski_Museum",
+    "itemName":"serene painting",
+    "realArtworkTitle":"Lady with an Ermine",
+    "artist":"Leonardo da Vinci, circa 1490, Oil on wood panel",
+    "museumDescription":"One of only four portraits of women painted by da Vinci, one of which is the \"Mona Lisa. \"Some believe that the \"ermine\" is not actually an ermine, but rather a white ferret!"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127222,51.490833 ]
+    },
+    "properties": {
+    "location":"Tate Britain",
+    "fullAddress":"Millbank, London SW1P 4RG, United Kingdom",
+    "city":"London",
+    "country":"United Kingdom",
+    "wikiURL":"https://en.wikipedia.org/wiki/Tate_Britain",
+    "itemName":"sinking painting",
+    "realArtworkTitle":"Ophelia",
+    "artist":"John Everett Millais, 1852, Oil on canvas",
+    "museumDescription":"Ophelia is a tragic figure in the Shakespearean play \"Hamlet.\" There is an otherworldly expression on her face as she lies unconscious in a river. She is surrounded by the beauty of nature as she floats between life and death."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.692222,40.413889 ]
+    },
+    "properties": {
+    "location":"Museo del Prado",
+    "fullAddress":"Calle de Ruiz de Alarcón, 23, 28014 Madrid, Spain",
+    "city":"Madrid",
+    "country":"Spain",
+    "wikiURL":"https://en.wikipedia.org/wiki/Museo_del_Prado",
+    "itemName":"solemn painting",
+    "realArtworkTitle":"Las Meninas",
+    "artist":"Diego Velázquez, circa 1656, Oil on canvas",
+    "museumDescription":"This famous piece by Velázquez, who served the Spanish court, shows us something about perspective. It depicts a young princess with her \"ladies-in-waiting.\" The artist himself is seen to the left. The king and queen are reflected in the mirror to the artist's right, so the perspective is that of the king. The king...watching the artist...paint the king and the queen..."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3873318,39.90199639 ]
+    },
+    "properties": {
+    "location":"National Museum of China",
+    "fullAddress":"16 E Chang'an Ave, Dongcheng, China",
+    "city":"Beijing",
+    "country":"China",
+    "wikiURL":"https://en.wikipedia.org/wiki/National_Museum_of_China",
+    "itemName":"tremendous statue",
+    "realArtworkTitle":"Houmuwu Ding",
+    "artist":"Artist Unknown, 1200 BCE, Bronze",
+    "museumDescription":"This bronze ding from ancient China is the largest and heaviest ever found. The script on the inside suggests it was created to honor the king's mother."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.977611,40.761611 ]
+    },
+    "properties": {
+    "location":"Museum of Modern Art ",
+    "fullAddress":"11 W 53rd St, New York, NY 10019",
+    "city":"New York",
+    "country":"United States",
+    "wikiURL":"https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
+    "itemName":"twinkling painting",
+    "realArtworkTitle":"The Starry Night",
+    "artist":"Vincent van Gogh, 1889, Oil on canvas",
+    "museumDescription":"Van Gogh's signature piece, painted while he was hospitalized at an asylum. This view from his room includes memories and imaginations. In letters to friends, the artist called it a failure."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335833,48.861111 ]
+    },
+    "properties": {
+    "location":"Louvre",
+    "fullAddress":"Rue de Rivoli, 75001 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Louvre",
+    "itemName":"valiant statue",
+    "realArtworkTitle":"Nike of Samothrace",
+    "artist":"Artist Unknown, circa 190 BCE, Marble",
+    "museumDescription":"A statue of the goddess of victory, Nike, found on Samothrace. It shows Nike alighting on the prow of a ship. Originally found in separate pieces, it has largely been restored, but the arms and head are still missing."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.692222,40.413889 ]
+    },
+    "properties": {
+    "location":"Museo del Prado",
+    "fullAddress":"Calle de Ruiz de Alarcón, 23, 28014 Madrid, Spain",
+    "city":"Madrid",
+    "country":"Spain",
+    "wikiURL":"https://en.wikipedia.org/wiki/Museo_del_Prado",
+    "itemName":"warm painting",
+    "realArtworkTitle":"The Clothed Maja",
+    "artist":"Francisco de Goya, circa 1805, Oil on canvas",
+    "museumDescription":"It is said that this painting is a more discreet version of an earlier work known as \"The Nude Maja.\" It is also known that Francisco de Goya was quite popular in his own time. Could these facts be related? A third, unrelated fact-the word \"maja\" refers to a \"stylish young lady of Madrid.\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.2705306,34.38428346 ]
+    },
+    "properties": {
+    "location":"Emperor Qin Shi Huang's Mausoleum Site Museum",
+    "fullAddress":"Lintong District, Xi'an, Shaanxi, China, 710612",
+    "city":"Xi'an",
+    "country":"China",
+    "wikiURL":"https://en.wikipedia.org/wiki/Mausoleum_of_the_First_Qin_Emperor",
+    "itemName":"warrior statue",
+    "realArtworkTitle":"Terracotta Army",
+    "artist":"Artist Unknown, 210 BCE, Earthenware",
+    "museumDescription":"These terracotta warriors were buried with the first Qin emperor to protect him in the afterlife. Nearly 2,000 years later, in 1974, about 8,000 of them were found. Each life-sized statue is said to have been handmade with different poses, expressions, and clothing."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.776446,35.718774 ]
+    },
+    "properties": {
+    "location":"Tokyo National Museum",
+    "fullAddress":"13-9 Uenokoen, Taito City, Tokyo 110-8712, Japan",
+    "city":"Tokyo",
+    "country":"Japan",
+    "wikiURL":"https://en.wikipedia.org/wiki/Tokyo_National_Museum",
+    "itemName":"wild painting left half",
+    "realArtworkTitle":"Folding Screen of Fūjin and Raijin",
+    "artist":"Tawaraya Sōtatsu, 17th century, Gold leaf and ink on paper",
+    "museumDescription":"This folding screen shows dynamic brushwork of Fūjin and Raijin on a gold-leaf background. It is thought to be the masterpiece of Tawaraya Sōtatsu, an early-Edo- period artist. The simplification of the subjects is a style that was carried on by Ogata Kōrin. It's a style still in use today in the Rinpa school of Japanese painting."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.776446,35.718774 ]
+    },
+    "properties": {
+    "location":"Tokyo National Museum",
+    "fullAddress":"13-9 Uenokoen, Taito City, Tokyo 110-8712, Japan",
+    "city":"Tokyo",
+    "country":"Japan",
+    "wikiURL":"https://en.wikipedia.org/wiki/Tokyo_National_Museum",
+    "itemName":"wild painting right half",
+    "realArtworkTitle":"Folding Screen of Fūjin and Raijin",
+    "artist":"Tawaraya Sōtatsu, 17th century, Gold leaf and ink on paper",
+    "museumDescription":"This folding screen shows dynamic brushwork of Fūjin and Raijin on a gold-leaf background. It is thought to be the masterpiece of Tawaraya Sōtatsu, an early-Edo- period artist. The simplification of the subjects is a style that was carried on by Ogata Kōrin. It's a style still in use today in the Rinpa school of Japanese painting."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.314444,52.080556 ]
+    },
+    "properties": {
+    "location":"Mauritshuis",
+    "fullAddress":"Plein 29, 2511 CS Den Haag, Netherlands",
+    "city":"The Hague",
+    "country":"Netherlands",
+    "wikiURL":"https://en.wikipedia.org/wiki/Mauritshuis",
+    "itemName":"wistful painting",
+    "realArtworkTitle":"Girl with a Pearl Earring",
+    "artist":"Johannes Vermeer, circa 1665, Oil on canvas",
+    "museumDescription":"Also known as \"Girl with a Turban,\" this piece uses ultramarine paint, which was expensive at the time. It seems the expense was worth it, as the vivid blue colors draw the eye and help make the piece a classic. The only question is... Is that a real pearl earring? Or something else..."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335833,48.861111 ]
+    },
+    "properties": {
+    "location":"Louvre",
+    "fullAddress":"Rue de Rivoli, 75001 Paris, France",
+    "city":"Paris",
+    "country":"France",
+    "wikiURL":"https://en.wikipedia.org/wiki/Louvre",
+    "itemName":"worthy painting",
+    "realArtworkTitle":"Liberty Leading the People",
+    "artist":"Eugène Delacroix, 1830, Oil on canvas",
+    "museumDescription":"Painted by leading 19th century Romantic artist Delacroix in the same year as a French revolution. The woman in the center is often mistaken for Joan of Arc, but she is actually the fictional \"Marianne.\""
+    }
+  }
+]
+}
