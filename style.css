@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body { 
+  margin: 0; 
+  padding: 0; 
+}
+
+#map { 
+    position: absolute; 
+    top:0; 
+    bottom:0; 
+    right:0; 
+    left:400px;
+  }
+
+#info { 
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 400px;
+  padding: 20px;
+  overflow-y: overlay;
+}
